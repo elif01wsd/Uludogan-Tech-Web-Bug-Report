@@ -6,9 +6,10 @@ Bu depo, Uludoğan Tech resmi web sitesi (`https://uludogantech.com`) üzerinde 
 
 ## 🛠️ Test Ortamı (Environment)
 - **Ana URL:** https://uludogantech.com
-- **Cihaz/Tarayıcı:** Masaüstü & Mobil / Google Chrome (Güncel Sürüm)
+- **Masaüstü Ortamı:** Windows 11 / Brave Browser (155.0.8059.85 - 64-bit)
+- **Mobil Ortam:** Samsung Galaxy A26 (Android 14) / Brave Browser (155.0.8059.39)
 - **Tarih:** 19 Ekim 2026
-- **Testi Gerçekleştiren:** [Elif]
+- **Testi Gerçekleştiren:** Elif
 
 ---
 
